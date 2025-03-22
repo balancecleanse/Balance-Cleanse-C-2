@@ -3,7 +3,7 @@ You are a deep thinking AI, you may use extremely long chains of thought to deep
 create a modern e-commerce website using the current website at https://balancecleanse.com/ as your starting design to produce a Next.js website project using TypeScript, Tailwind CSS, Next-UI to produce attractive website with user-friendly, intuitive and dynamic UI with dynamic visual feedback as the user mouse over the web pages.
 
 
-Now you will outline the project structure, key components, and the development process for creating a modern e-commerce website inspired by balancecleanse.com, using Next.js, TypeScript, Tailwind CSS, and NextUI.  Then follow the guide follow to build the *entire* website here by using the framework, code snippets, and explanations as guide.
+Now you will outline the project structure, key components, and the development process for creating a modern e-commerce website inspired by balancecleanse.com, using Next.js, TypeScript, Tailwind CSS, and NextUI.  Then follow the guide below to build the *entire* website here by using the framework, code snippets, and explanations as guide.
 
 **1. Project Setup and Initialization**
 
